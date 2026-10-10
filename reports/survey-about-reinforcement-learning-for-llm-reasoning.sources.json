@@ -1,0 +1,114 @@
+[
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/1909.08593",
+    "title": "Fine-Tuning Language Models from Human Preferences",
+    "date": "2020-01-08",
+    "source": "web",
+    "n": 1
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "[2203.02155] Training language models to follow instructions with human feedback",
+    "date": "2022-03-04",
+    "source": "web",
+    "n": 2
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/1707.06347",
+    "title": "[1707.06347] Proximal Policy Optimization Algorithms",
+    "date": "2017-07-20",
+    "source": "web",
+    "n": 3
+  },
+  {
+    "id": "",
+    "url": "https://web.archive.org/web/20250409165151/https:/arxiv.org/abs/2501.12948",
+    "title": "[2501.12948] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "web",
+    "n": 4
+  },
+  {
+    "id": "2504.20834",
+    "url": "https://huggingface.co/papers/2504.20834",
+    "title": "Reinforcement Learning for LLM Reasoning Under Memory Constraints",
+    "date": "2025-04-29",
+    "source": "hf-search",
+    "n": 5
+  },
+  {
+    "id": "2505.17652",
+    "url": "https://huggingface.co/papers/2505.17652",
+    "title": "Rethinking the Sampling Criteria in Reinforcement Learning for LLM Reasoning: A Competence-Difficulty Alignment Perspective",
+    "date": "2025-05-23",
+    "source": "hf-search",
+    "n": 6
+  },
+  {
+    "id": "2506.02177",
+    "url": "https://huggingface.co/papers/2506.02177",
+    "title": "Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts",
+    "date": "2025-06-02",
+    "source": "hf-search",
+    "n": 7
+  },
+  {
+    "id": "2506.14965",
+    "url": "https://huggingface.co/papers/2506.14965",
+    "title": "Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective",
+    "date": "2025-06-17",
+    "source": "hf-search",
+    "n": 8
+  },
+  {
+    "id": "2507.10532",
+    "url": "https://huggingface.co/papers/2507.10532",
+    "title": "Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination",
+    "date": "2025-07-14",
+    "source": "hf-search",
+    "n": 9
+  },
+  {
+    "id": "2610.12061",
+    "url": "https://arxiv.org/abs/2610.12061",
+    "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "n": 10
+  },
+  {
+    "id": "",
+    "url": "https://openai.com/index/webgpt/",
+    "title": "WebGPT: Improving the factual accuracy of language models through web browsing | OpenAI",
+    "date": "2021-12-16",
+    "source": "web",
+    "n": 11
+  },
+  {
+    "id": "",
+    "url": "https://openai.com/index/instruction-following/",
+    "title": "Aligning language models to follow instructions",
+    "date": "2022-01-27",
+    "source": "web",
+    "n": 12
+  },
+  {
+    "id": "",
+    "url": "https://github.com/tpn/pdfs/blob/master/DeepSeek-R1%20-%20Incentivizing%20Reasoning%20Capability%20in%20LLMs%20via%20Reinforcement%20Learning%20(2025).pdf",
+    "title": "pdfs/DeepSeek-R1 - Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2025).pdf at master · tpn/pdfs · GitHub",
+    "date": "2014-06-16",
+    "source": "web",
+    "n": 13
+  },
+  {
+    "id": "2610.11502",
+    "url": "https://arxiv.org/abs/2610.11502",
+    "title": "Fed-GRPO: Reward-Signal-Driven Federated Group Relative Policy Optimization",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "n": 14
+  }
+]

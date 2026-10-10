@@ -1,0 +1,28 @@
+{
+  "topic": "survey about LLM agents and tool use",
+  "model": "openai:gpt-5.4-mini",
+  "elapsed_s": 116.2,
+  "subagent_calls": 4,
+  "researcher_calls": 3,
+  "citation_checker_calls": 1,
+  "tool_calls": {
+    "compile_sources": 2,
+    "execute": 2,
+    "read_file": 3,
+    "retrieved_sources": 1,
+    "task": 4,
+    "write_file": 1,
+    "write_todos": 2
+  },
+  "tokens": {
+    "input": 205149,
+    "output": 4972
+  },
+  "token_scope": "lead messages only; excludes subagent usage",
+  "n_sources": 15,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

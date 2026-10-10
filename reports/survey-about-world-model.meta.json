@@ -1,0 +1,29 @@
+{
+  "topic": "survey about world model",
+  "model": "openai:gpt-5.4-mini",
+  "elapsed_s": 122.6,
+  "subagent_calls": 4,
+  "researcher_calls": 3,
+  "citation_checker_calls": 1,
+  "tool_calls": {
+    "compile_sources": 3,
+    "execute": 1,
+    "grep": 1,
+    "read_file": 3,
+    "retrieved_sources": 2,
+    "task": 4,
+    "write_file": 1,
+    "write_todos": 3
+  },
+  "tokens": {
+    "input": 252247,
+    "output": 7465
+  },
+  "token_scope": "lead messages only; excludes subagent usage",
+  "n_sources": 12,
+  "source_families": [
+    "hf-daily",
+    "hf-search",
+    "web"
+  ]
+}

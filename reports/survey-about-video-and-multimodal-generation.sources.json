@@ -1,0 +1,130 @@
+[
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2006.11239",
+    "title": "[2006.11239] Denoising Diffusion Probabilistic Models - arXiv",
+    "date": "2020-12-16",
+    "source": "web",
+    "n": 1
+  },
+  {
+    "id": "",
+    "url": "https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf",
+    "title": "Denoising Diffusion Probabilistic Models",
+    "date": "n.d.",
+    "source": "web",
+    "n": 2
+  },
+  {
+    "id": "2410.11795",
+    "url": "https://huggingface.co/papers/2410.11795",
+    "title": "Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices",
+    "date": "2024-10-15",
+    "source": "hf-search",
+    "n": 3
+  },
+  {
+    "id": "2002.06353",
+    "url": "https://huggingface.co/papers/2002.06353",
+    "title": "UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation",
+    "date": "2020-02-15",
+    "source": "hf-search",
+    "n": 4
+  },
+  {
+    "id": "2307.06942",
+    "url": "https://huggingface.co/papers/2307.06942",
+    "title": "InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation",
+    "date": "2023-07-13",
+    "source": "hf-search",
+    "n": 5
+  },
+  {
+    "id": "2604.08121",
+    "url": "https://huggingface.co/papers/2604.08121",
+    "title": "Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator",
+    "date": "2026-04-09",
+    "source": "hf-search",
+    "n": 6
+  },
+  {
+    "id": "2609.38154",
+    "url": "https://huggingface.co/papers/2609.38154",
+    "title": "LongLive-Plug: Once-for-All Distillation for Video Generation",
+    "date": "2026-09-29",
+    "source": "hf-search",
+    "n": 7
+  },
+  {
+    "id": "2610.11736",
+    "url": "https://arxiv.org/abs/2610.11736",
+    "title": "Towards Unified Evaluation of Prompt Enhancers for Video Generation",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "n": 8
+  },
+  {
+    "id": "2610.11993",
+    "url": "https://arxiv.org/abs/2610.11993",
+    "title": "DataVista: Diagnosing Multimodal LLMs on Data Video Understanding",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "n": 9
+  },
+  {
+    "id": "2610.12417",
+    "url": "https://arxiv.org/abs/2610.12417",
+    "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "n": 10
+  },
+  {
+    "id": "2506.02975",
+    "url": "https://huggingface.co/papers/2506.02975",
+    "title": "HaploOmni: Unified Single Transformer for Multimodal Video Understanding and Generation",
+    "date": "2025-06-03",
+    "source": "hf-search",
+    "n": 11
+  },
+  {
+    "id": "2412.00887",
+    "url": "https://huggingface.co/papers/2412.00887",
+    "title": "Playable Game Generation",
+    "date": "2024-12-01",
+    "source": "hf-search",
+    "n": 12
+  },
+  {
+    "id": "2507.20368",
+    "url": "https://huggingface.co/papers/2507.20368",
+    "title": "MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation",
+    "date": "2025-07-27",
+    "source": "hf-search",
+    "n": 13
+  },
+  {
+    "id": "2610.10400",
+    "url": "https://arxiv.org/abs/2610.10400",
+    "title": "Self-correction Optimization for Interleaved Multimodal Generation",
+    "date": "2026-10-07",
+    "source": "arxiv",
+    "n": 14
+  },
+  {
+    "id": "2507.17937",
+    "url": "https://huggingface.co/papers/2507.17937",
+    "title": "Bob's Confetti: Phonetic Memorization Attacks in Music and Video Generation",
+    "date": "2025-07-23",
+    "source": "hf-search",
+    "n": 15
+  },
+  {
+    "id": "2610.11105",
+    "url": "https://arxiv.org/abs/2610.11105",
+    "title": "TKCAM: Text and Keyframe to Camera Trajectory Generation",
+    "date": "2026-10-08",
+    "source": "arxiv",
+    "n": 16
+  }
+]

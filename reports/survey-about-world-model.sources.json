@@ -1,0 +1,98 @@
+[
+  {
+    "id": "",
+    "url": "https://worldmodels.github.io/",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "web",
+    "n": 1
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/html/2301.04783v2",
+    "title": "Predictive World Models from Real-World Partial Observations",
+    "date": "2023-04-26",
+    "source": "web",
+    "n": 2
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2005.05744",
+    "title": "[2005.05744] Deep Learning: Our Miraculous Year 1990-1991",
+    "date": "2020-05-12",
+    "source": "web",
+    "n": 3
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/html/1906.01035",
+    "title": "A Perspective on Objects and Systematic Generalization in Model-Based RL",
+    "date": "2019-06-03",
+    "source": "web",
+    "n": 4
+  },
+  {
+    "id": "2503.18938",
+    "url": "https://huggingface.co/papers/2503.18938",
+    "title": "AdaWorld: Learning Adaptable World Models with Latent Actions",
+    "date": "2025-03-24",
+    "source": "hf-search",
+    "n": 5
+  },
+  {
+    "id": "2503.10480",
+    "url": "https://huggingface.co/papers/2503.10480",
+    "title": "World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning",
+    "date": "2025-03-13",
+    "source": "hf-search",
+    "n": 6
+  },
+  {
+    "id": "2603.07145",
+    "url": "https://huggingface.co/papers/2603.07145",
+    "title": "LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models",
+    "date": "2026-03-07",
+    "source": "hf-search",
+    "n": 7
+  },
+  {
+    "id": "2605.18813",
+    "url": "https://huggingface.co/papers/2605.18813",
+    "title": "Composition of Memory Experts for Diffusion World Models",
+    "date": "2026-05-12",
+    "source": "hf-search",
+    "n": 8
+  },
+  {
+    "id": "2602.08025",
+    "url": "https://huggingface.co/papers/2602.08025",
+    "title": "MIND: Benchmarking Memory Consistency and Action Control in World Models",
+    "date": "2026-02-08",
+    "source": "hf-search",
+    "n": 9
+  },
+  {
+    "id": "",
+    "url": "https://github.com/worldbench/worldlens",
+    "title": "worldbench/WorldLens",
+    "date": "2025-11-24",
+    "source": "web",
+    "n": 10
+  },
+  {
+    "id": "",
+    "url": "https://themesis.com/2026/01/07/world-models-five-competing-approaches/",
+    "title": "World Models: Five Competing Approaches – Overview - Themesis, Inc.",
+    "date": "2026-01-07",
+    "source": "web",
+    "n": 11
+  },
+  {
+    "id": "2312.17681",
+    "url": "https://huggingface.co/papers/2312.17681",
+    "title": "FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis",
+    "date": "2023-12-29",
+    "source": "hf-daily",
+    "n": 12
+  }
+]
